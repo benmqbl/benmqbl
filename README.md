@@ -1,89 +1,98 @@
-::: {align="center"}
-# Mohammed \| `benmqbl`
+<div align="center">
 
-### Cybersecurity Learner · Penetration Testing · Linux
+# Mohammed
+
+### Cybersecurity | Penetration Testing | Linux | Python
 
 **Yemen 🇾🇪**
 
-[![GitHub](https://img.shields.io/badge/GitHub-benmqbl-181717?style=for-the-badge&logo=github)](https://github.com/benmqbl)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-benmqbl-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/benmqbl)
-:::
+<img src="https://www.gitskins.com/api/section/hero?username=benmqbl&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F360342630%3Fu%3Da5ff30ffb654a72d17bd305ea5fc68d210f71a7f%26v%3D4" alt="benmqbl profile banner" />
 
-------------------------------------------------------------------------
+<p>
+  <a href="https://github.com/benmqbl"><img src="https://img.shields.io/badge/GitHub-benmqbl-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://tryhackme.com/p/benmqbl"><img src="https://img.shields.io/badge/TryHackMe-benmqbl-212C42?style=for-the-badge&logo=tryhackme" alt="TryHackMe" /></a>
+</p>
+
+</div>
+
+---
 
 ## `$ whoami`
 
-I'm Mohammed, a cybersecurity practitioner focused on learning through
-hands-on labs and practical experimentation.
+Cybersecurity enthusiast focused on practical security testing and understanding how systems, networks, and web applications can be secured.
 
-My main interests are penetration testing, Linux security, web
-application security, and ethical hacking. I use CTFs and guided labs to
-strengthen my technical skills, understand how systems and
-vulnerabilities work, and document what I learn.
+I develop my skills through hands-on lab environments, technical experimentation, and structured problem-solving, with a particular interest in penetration testing and Linux security.
 
--   🌍 Based in **Yemen**
--   🔐 Focused on **Penetration Testing** and **Linux Security**
--   🧪 Practicing through **TryHackMe labs** and CTF challenges
--   📝 Currently preparing technical write-ups and lab reports
--   🐍 Learning and using **Python** for scripting and problem-solving
+- **Primary focus:** Penetration Testing and Linux Security
+- **Areas of interest:** Web Application Security, Ethical Hacking, CTFs
+- **Programming:** Python
+- **Practice environments:** TryHackMe and personal virtual labs
+- **Approach:** Understand the underlying concepts, validate findings, and document technical work.
 
-## `$ cat /etc/skills`
+## `$ cat /etc/arsenal`
 
-### Areas of Interest
+### Security domains
 
-![Penetration
-Testing](https://img.shields.io/badge/Penetration_Testing-222222?style=flat-square)
-![Linux
-Security](https://img.shields.io/badge/Linux_Security-222222?style=flat-square)
-![Web Application
-Security](https://img.shields.io/badge/Web_Application_Security-222222?style=flat-square)
-![CTF](https://img.shields.io/badge/CTF%20%2F%20Labs-222222?style=flat-square)
-![Ethical
-Hacking](https://img.shields.io/badge/Ethical_Hacking-222222?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/Linux_Security-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Security" />
+  <img src="https://img.shields.io/badge/Web_Application_Security-5C2D91?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Application Security" />
+  <img src="https://img.shields.io/badge/CTF_&_Labs-20232A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="CTF and Labs" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-006B5B?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking" />
+</p>
 
-### Tools & Technologies
+### Tools & technologies
 
-![Kali
-Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square)
-![Burp
-Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-## `$ ls ./learning`
+## `$ ./activity`
 
-I'm currently working on:
+Technical practice areas:
 
--   Solving practical cybersecurity labs on TryHackMe.
--   Improving my Linux administration and security skills.
--   Practicing web application and network penetration testing in
-    authorized environments.
--   Preparing clear, reproducible lab write-ups and technical reports.
+- Linux administration, system hardening, and security fundamentals.
+- Network and service enumeration.
+- Web application testing and vulnerability analysis.
+- Exploitation fundamentals and privilege-escalation techniques in authorized labs.
+- Python scripting for automation and security-related tasks.
 
-> Public write-ups and project repositories will be added here as they
-> are ready.
+## `$ ls ./projects`
 
-## `$ ./current_status.sh`
+Selected technical projects, lab documentation, and security reports will be featured here as they become available.
 
-**Current focus:** Hands-on practice, improving methodology, and
-documenting technical work.
+## `$ git status`
 
-I prefer understanding the reason behind each step---not just running
-commands.
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=benmqbl&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F360342630%3Fu%3Da5ff30ffb654a72d17bd305ea5fc68d210f71a7f%26v%3D4" alt="GitHub profile statistics" />
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=benmqbl&theme=satan" alt="GitHub contribution activity" />
+
+</div>
 
 ## `$ connect`
 
--   **GitHub:** [github.com/benmqbl](https://github.com/benmqbl)
--   **TryHackMe:**
-    [tryhackme.com/p/benmqbl](https://tryhackme.com/p/benmqbl)
--   **Discord:** `benmqbl`
--   **YouTube:** `benmqbl`
+<div align="center">
 
-------------------------------------------------------------------------
+<img src="https://www.gitskins.com/api/section/social?username=benmqbl&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F360342630%3Fu%3Da5ff30ffb654a72d17bd305ea5fc68d210f71a7f%26v%3D4" alt="Social links" />
 
-::: {align="center"}
-*Learn by doing. Understand the details. Document the process.*
-:::
+[GitHub](https://github.com/benmqbl) · [TryHackMe](https://tryhackme.com/p/benmqbl)
+
+**Discord:** `benmqbl` · **YouTube:** `benmqbl`
+
+</div>
+
+---
+
+<div align="center">
+
+*Explore. Analyze. Understand. Secure.*
+
+</div>
